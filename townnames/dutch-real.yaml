@@ -2,17 +2,967 @@ available: true
 id: 1
 mainset:
 - names:
-  - name: Poop
+  - name: Adelanto
     probability: 1
-  - name: Cal
+  - name: Agoura Hills
     probability: 1
-  - name: Bear
+  - name: Alameda
     probability: 1
-  - name: Cinema
+  - name: Albany
+    probability: 1
+  - name: Alhambra
+    probability: 1
+  - name: Aliso Viejo
+    probability: 1
+  - name: Alturas
+    probability: 1
+  - name: Amador City
+    probability: 1
+  - name: American Canyon
+    probability: 1
+  - name: Anaheim
+    probability: 1
+  - name: Anderson
+    probability: 1
+  - name: Angels
+    probability: 1
+  - name: Antioch
+    probability: 1
+  - name: Apple Valley
+    probability: 1
+  - name: Arcadia
+    probability: 1
+  - name: Arcata
+    probability: 1
+  - name: Arroyo Grande
+    probability: 1
+  - name: Artesia
+    probability: 1
+  - name: Arvin
+    probability: 1
+  - name: Atascadero
+    probability: 1
+  - name: Atherton
+    probability: 1
+  - name: Atwater
+    probability: 1
+  - name: Auburn
+    probability: 1
+  - name: Avalon
+    probability: 1
+  - name: Avenal
+    probability: 1
+  - name: Azusa
+    probability: 1
+  - name: Bakersfield
+    probability: 1
+  - name: Baldwin Park
+    probability: 1
+  - name: Banning
+    probability: 1
+  - name: Barstow
+    probability: 1
+  - name: Beaumont
+    probability: 1
+  - name: Bell
+    probability: 1
+  - name: Bell Gardens
+    probability: 1
+  - name: Bellflower
+    probability: 1
+  - name: Belmont
+    probability: 1
+  - name: Belvedere
+    probability: 1
+  - name: Benicia
+    probability: 1
+  - name: Berkeley
+    probability: 1
+  - name: Beverly Hills
+    probability: 1
+  - name: Big Bear Lake
+    probability: 1
+  - name: Biggs
+    probability: 1
+  - name: Bishop
+    probability: 1
+  - name: Blue Lake
+    probability: 1
+  - name: Blythe
+    probability: 1
+  - name: Bradbury
+    probability: 1
+  - name: Brawley
+    probability: 1
+  - name: Brea
+    probability: 1
+  - name: Brentwood
+    probability: 1
+  - name: Brisbane
+    probability: 1
+  - name: Buellton
+    probability: 1
+  - name: Buena Park
+    probability: 1
+  - name: Burbank
+    probability: 1
+  - name: Burlingame
+    probability: 1
+  - name: Calabasas
+    probability: 1
+  - name: Calexico
+    probability: 1
+  - name: California
+    probability: 1
+  - name: Calimesa
+    probability: 1
+  - name: Calipatria
+    probability: 1
+  - name: Calistoga
+    probability: 1
+  - name: Camarillo
+    probability: 1
+  - name: Campbell
+    probability: 1
+  - name: Canyon Lake
+    probability: 1
+  - name: Capitola
+    probability: 1
+  - name: Carlsbad
+    probability: 1
+  - name: Carmel-by-the-Sea
+    probability: 1
+  - name: Carpinteria
+    probability: 1
+  - name: Carson
+    probability: 1
+  - name: Cathedral City
+    probability: 1
+  - name: Ceres
+    probability: 1
+  - name: Cerritos
+    probability: 1
+  - name: Chico
+    probability: 1
+  - name: Chino
+    probability: 1
+  - name: Chino Hills
+    probability: 1
+  - name: Chowchilla
+    probability: 1
+  - name: Chula Vista
+    probability: 1
+  - name: Citrus Heights
+    probability: 1
+  - name: Claremont
+    probability: 1
+  - name: Clayton
+    probability: 1
+  - name: Clearlake
+    probability: 1
+  - name: Cloverdale
+    probability: 1
+  - name: Clovis
+    probability: 1
+  - name: Coachella
+    probability: 1
+  - name: Coalinga
+    probability: 1
+  - name: Colfax
+    probability: 1
+  - name: Colma
+    probability: 1
+  - name: Colton
+    probability: 1
+  - name: Colusa
+    probability: 1
+  - name: Commerce
+    probability: 1
+  - name: Compton
+    probability: 1
+  - name: Concord
+    probability: 1
+  - name: Corcoran
+    probability: 1
+  - name: Corning
+    probability: 1
+  - name: Corona
+    probability: 1
+  - name: Coronado
+    probability: 1
+  - name: Corte Madera
+    probability: 1
+  - name: Costa Mesa
+    probability: 1
+  - name: Cotati
+    probability: 1
+  - name: Covina
+    probability: 1
+  - name: Crescent City
+    probability: 1
+  - name: Cudahy
+    probability: 1
+  - name: Culver City
+    probability: 1
+  - name: Cupertino
+    probability: 1
+  - name: Cypress
+    probability: 1
+  - name: Daly City
+    probability: 1
+  - name: Dana Point
+    probability: 1
+  - name: Danville
+    probability: 1
+  - name: Davis
+    probability: 1
+  - name: Del Mar
+    probability: 1
+  - name: Del Rey Oaks
+    probability: 1
+  - name: Delano
+    probability: 1
+  - name: Desert Hot Springs
+    probability: 1
+  - name: Diamond Bar
+    probability: 1
+  - name: Dinuba
+    probability: 1
+  - name: Dixon
+    probability: 1
+  - name: Dorris
+    probability: 1
+  - name: Dos Palos
+    probability: 1
+  - name: Downey
+    probability: 1
+  - name: Duarte
+    probability: 1
+  - name: Dublin
+    probability: 1
+  - name: Dunsmuir
+    probability: 1
+  - name: East Palo Alto
+    probability: 1
+  - name: Eastvale
+    probability: 1
+  - name: El Cajon
+    probability: 1
+  - name: El Centro
+    probability: 1
+  - name: El Cerrito
+    probability: 1
+  - name: El Monte
+    probability: 1
+  - name: El Segundo
+    probability: 1
+  - name: Elk Grove
+    probability: 1
+  - name: Emeryville
+    probability: 1
+  - name: Encinitas
+    probability: 1
+  - name: Escalon
+    probability: 1
+  - name: Escondido
+    probability: 1
+  - name: Etna
+    probability: 1
+  - name: Eureka
+    probability: 1
+  - name: Exeter
+    probability: 1
+  - name: Fairfax
+    probability: 1
+  - name: Fairfield
+    probability: 1
+  - name: Farmersville
+    probability: 1
+  - name: Ferndale
+    probability: 1
+  - name: Fillmore
+    probability: 1
+  - name: Firebaugh
+    probability: 1
+  - name: Folsom
+    probability: 1
+  - name: Fontana
+    probability: 1
+  - name: Fort Bragg
+    probability: 1
+  - name: Fort Jones
+    probability: 1
+  - name: Fortuna
+    probability: 1
+  - name: Foster City
+    probability: 1
+  - name: Fountain Valley
+    probability: 1
+  - name: Fowler
+    probability: 1
+  - name: Fremont
+    probability: 1
+  - name: Fresno
+    probability: 1
+  - name: Fullerton
+    probability: 1
+  - name: Galt
+    probability: 1
+  - name: Garden Grove
+    probability: 1
+  - name: Gardena
+    probability: 1
+  - name: Gilroy
+    probability: 1
+  - name: Glendale
+    probability: 1
+  - name: Glendora
+    probability: 1
+  - name: Goleta
+    probability: 1
+  - name: Gonzales
+    probability: 1
+  - name: Grand Terrace
+    probability: 1
+  - name: Grass Valley
+    probability: 1
+  - name: Greenfield
+    probability: 1
+  - name: Gridley
+    probability: 1
+  - name: Grover Beach
+    probability: 1
+  - name: Guadalupe
+    probability: 1
+  - name: Gustine
+    probability: 1
+  - name: Half Moon Bay
+    probability: 1
+  - name: Hanford
+    probability: 1
+  - name: Hawaiian Gardens
+    probability: 1
+  - name: Hawthorne
+    probability: 1
+  - name: Hayward
+    probability: 1
+  - name: Healdsburg
+    probability: 1
+  - name: Hemet
+    probability: 1
+  - name: Hercules
+    probability: 1
+  - name: Hermosa Beach
+    probability: 1
+  - name: Hesperia
+    probability: 1
+  - name: Hidden Hills
+    probability: 1
+  - name: Highland
+    probability: 1
+  - name: Hillsborough
+    probability: 1
+  - name: Hollister
+    probability: 1
+  - name: Holtville
+    probability: 1
+  - name: Hughson
+    probability: 1
+  - name: Huntington Beach
+    probability: 1
+  - name: Huntington Park
+    probability: 1
+  - name: Huron
+    probability: 1
+  - name: Imperial
+    probability: 1
+  - name: Imperial Beach
+    probability: 1
+  - name: Indian Wells
+    probability: 1
+  - name: Indio
+    probability: 1
+  - name: Industry
+    probability: 1
+  - name: Inglewood
+    probability: 1
+  - name: Ione
+    probability: 1
+  - name: Irvine
+    probability: 1
+  - name: Irwindale
+    probability: 1
+  - name: Isleton
+    probability: 1
+  - name: Jackson
+    probability: 1
+  - name: Jurupa Valley
+    probability: 1
+  - name: Kerman
+    probability: 1
+  - name: King City
+    probability: 1
+  - name: Kingsburg
+    probability: 1
+  - name: La Cañada Flintridge
+    probability: 1
+  - name: La Habra
+    probability: 1
+  - name: La Habra Heights
+    probability: 1
+  - name: La Mesa
+    probability: 1
+  - name: La Mirada
+    probability: 1
+  - name: La Palma
+    probability: 1
+  - name: La Puente
+    probability: 1
+  - name: La Quinta
+    probability: 1
+  - name: La Verne
+    probability: 1
+  - name: Lafayette
+    probability: 1
+  - name: Laguna Beach
+    probability: 1
+  - name: Laguna Hills
+    probability: 1
+  - name: Laguna Niguel
+    probability: 1
+  - name: Laguna Woods
+    probability: 1
+  - name: Lake Elsinore
+    probability: 1
+  - name: Lake Forest
+    probability: 1
+  - name: Lakeport
+    probability: 1
+  - name: Lakewood
+    probability: 1
+  - name: Lancaster
+    probability: 1
+  - name: Larkspur
+    probability: 1
+  - name: Lathrop
+    probability: 1
+  - name: Lawndale
+    probability: 1
+  - name: Lemon Grove
+    probability: 1
+  - name: Lemoore
+    probability: 1
+  - name: Lincoln
+    probability: 1
+  - name: Lindsay
+    probability: 1
+  - name: Live Oak
+    probability: 1
+  - name: Livermore
+    probability: 1
+  - name: Livingston
+    probability: 1
+  - name: Lodi
+    probability: 1
+  - name: Loma Linda
+    probability: 1
+  - name: Lomita
+    probability: 1
+  - name: Lompoc
+    probability: 1
+  - name: Long Beach
+    probability: 1
+  - name: Loomis
+    probability: 1
+  - name: Los Alamitos
+    probability: 1
+  - name: Los Altos
+    probability: 1
+  - name: Los Altos Hills
+    probability: 1
+  - name: Los Angeles
+    probability: 1
+  - name: Los Banos
+    probability: 1
+  - name: Los Gatos
+    probability: 1
+  - name: Loyalton
+    probability: 1
+  - name: Lynwood
+    probability: 1
+  - name: Madera
+    probability: 1
+  - name: Malibu
+    probability: 1
+  - name: Mammoth Lakes
+    probability: 1
+  - name: Manhattan Beach
+    probability: 1
+  - name: Manteca
+    probability: 1
+  - name: Maricopa
+    probability: 1
+  - name: Marina
+    probability: 1
+  - name: Martinez
+    probability: 1
+  - name: Marysville
+    probability: 1
+  - name: Maywood
+    probability: 1
+  - name: McFarland
+    probability: 1
+  - name: Mendota
+    probability: 1
+  - name: Menifee
+    probability: 1
+  - name: Menlo Park
+    probability: 1
+  - name: Merced
+    probability: 1
+  - name: Mill Valley
+    probability: 1
+  - name: Millbrae
+    probability: 1
+  - name: Milpitas
+    probability: 1
+  - name: Mission Viejo
+    probability: 1
+  - name: Modesto
+    probability: 1
+  - name: Monrovia
+    probability: 1
+  - name: Montague
+    probability: 1
+  - name: Montclair
+    probability: 1
+  - name: Monte Sereno
+    probability: 1
+  - name: Montebello
+    probability: 1
+  - name: Monterey
+    probability: 1
+  - name: Monterey Park
+    probability: 1
+  - name: Moorpark
+    probability: 1
+  - name: Moraga
+    probability: 1
+  - name: Moreno Valley
+    probability: 1
+  - name: Morgan Hill
+    probability: 1
+  - name: Morro Bay
+    probability: 1
+  - name: Mount Shasta
+    probability: 1
+  - name: Mountain View
+    probability: 1
+  - name: Murrieta
+    probability: 1
+  - name: Napa
+    probability: 1
+  - name: National City
+    probability: 1
+  - name: Needles
+    probability: 1
+  - name: Nevada City
+    probability: 1
+  - name: Newark
+    probability: 1
+  - name: Newman
+    probability: 1
+  - name: Newport Beach
+    probability: 1
+  - name: Norco
+    probability: 1
+  - name: Norwalk
+    probability: 1
+  - name: Novato
+    probability: 1
+  - name: Oakdale
+    probability: 1
+  - name: Oakland
+    probability: 1
+  - name: Oakley
+    probability: 1
+  - name: Oceanside
+    probability: 1
+  - name: Ojai
+    probability: 1
+  - name: Ontario
+    probability: 1
+  - name: Orange
+    probability: 1
+  - name: Orange Cove
+    probability: 1
+  - name: Orinda
+    probability: 1
+  - name: Orland
+    probability: 1
+  - name: Oroville
+    probability: 1
+  - name: Oxnard
+    probability: 1
+  - name: Pacific Grove
+    probability: 1
+  - name: Pacifica
+    probability: 1
+  - name: Palm Desert
+    probability: 1
+  - name: Palm Springs
+    probability: 1
+  - name: Palmdale
+    probability: 1
+  - name: Palo Alto
+    probability: 1
+  - name: Palos Verdes Estates
+    probability: 1
+  - name: Paradise
+    probability: 1
+  - name: Paramount
+    probability: 1
+  - name: Parlier
+    probability: 1
+  - name: Pasadena
+    probability: 1
+  - name: Paso Robles
+    probability: 1
+  - name: Patterson
+    probability: 1
+  - name: Perris
+    probability: 1
+  - name: Petaluma
+    probability: 1
+  - name: Pico Rivera
+    probability: 1
+  - name: Piedmont
+    probability: 1
+  - name: Pinole
+    probability: 1
+  - name: Pismo Beach
+    probability: 1
+  - name: Pittsburg
+    probability: 1
+  - name: Placentia
+    probability: 1
+  - name: Placerville
+    probability: 1
+  - name: Pleasant Hill
+    probability: 1
+  - name: Pleasanton
+    probability: 1
+  - name: Plymouth
+    probability: 1
+  - name: Point Arena
+    probability: 1
+  - name: Pomona
+    probability: 1
+  - name: Port Hueneme
+    probability: 1
+  - name: Porterville
+    probability: 1
+  - name: Portola
+    probability: 1
+  - name: Poway
+    probability: 1
+  - name: Rancho Cordova
+    probability: 1
+  - name: Rancho Cucamonga
+    probability: 1
+  - name: Rancho Mirage
+    probability: 1
+  - name: Rancho Palos Verdes
+    probability: 1
+  - name: Rancho Santa Margarita
+    probability: 1
+  - name: Red Bluff
+    probability: 1
+  - name: Redding
+    probability: 1
+  - name: Redlands
+    probability: 1
+  - name: Redondo Beach
+    probability: 1
+  - name: Redwood City
+    probability: 1
+  - name: Reedley
+    probability: 1
+  - name: Rialto
+    probability: 1
+  - name: Richmond
+    probability: 1
+  - name: Ridgecrest
+    probability: 1
+  - name: Rio Dell
+    probability: 1
+  - name: Rio Vista
+    probability: 1
+  - name: Ripon
+    probability: 1
+  - name: Riverbank
+    probability: 1
+  - name: Riverside
+    probability: 1
+  - name: Rocklin
+    probability: 1
+  - name: Rohnert Park
+    probability: 1
+  - name: Rolling Hills
+    probability: 1
+  - name: Rolling Hills Estates
+    probability: 1
+  - name: Rosemead
+    probability: 1
+  - name: Roseville
+    probability: 1
+  - name: Ross
+    probability: 1
+  - name: Sacramento
+    probability: 1
+  - name: Salinas
+    probability: 1
+  - name: San Anselmo
+    probability: 1
+  - name: San Bernardino
+    probability: 1
+  - name: San Bruno
+    probability: 1
+  - name: San Carlos
+    probability: 1
+  - name: San Clemente
+    probability: 1
+  - name: San Diego
+    probability: 1
+  - name: San Dimas
+    probability: 1
+  - name: San Fernando
+    probability: 1
+  - name: San Francisco
+    probability: 1
+  - name: San Gabriel
+    probability: 1
+  - name: San Jacinto
+    probability: 1
+  - name: San Joaquin
+    probability: 1
+  - name: San Jose
+    probability: 1
+  - name: San Juan Bautista
+    probability: 1
+  - name: San Juan Capistrano
+    probability: 1
+  - name: San Leandro
+    probability: 1
+  - name: San Luis Obispo
+    probability: 1
+  - name: San Marcos
+    probability: 1
+  - name: San Marino
+    probability: 1
+  - name: San Mateo
+    probability: 1
+  - name: San Pablo
+    probability: 1
+  - name: San Rafael
+    probability: 1
+  - name: San Ramon
+    probability: 1
+  - name: Sand City
+    probability: 1
+  - name: Sanger
+    probability: 1
+  - name: Santa Ana
+    probability: 1
+  - name: Santa Barbara
+    probability: 1
+  - name: Santa Clara
+    probability: 1
+  - name: Santa Clarita
+    probability: 1
+  - name: Santa Cruz
+    probability: 1
+  - name: Santa Fe Springs
+    probability: 1
+  - name: Santa Maria
+    probability: 1
+  - name: Santa Monica
+    probability: 1
+  - name: Santa Paula
+    probability: 1
+  - name: Santa Rosa
+    probability: 1
+  - name: Santee
+    probability: 1
+  - name: Saratoga
+    probability: 1
+  - name: Sausalito
+    probability: 1
+  - name: Scotts Valley
+    probability: 1
+  - name: Seal Beach
+    probability: 1
+  - name: Seaside
+    probability: 1
+  - name: Sebastopol
+    probability: 1
+  - name: Selma
+    probability: 1
+  - name: Shafter
+    probability: 1
+  - name: Shasta Lake
+    probability: 1
+  - name: Sierra Madre
+    probability: 1
+  - name: Signal Hill
+    probability: 1
+  - name: Simi Valley
+    probability: 1
+  - name: Solana Beach
+    probability: 1
+  - name: Soledad
+    probability: 1
+  - name: Solvang
+    probability: 1
+  - name: Sonoma
+    probability: 1
+  - name: Sonora
+    probability: 1
+  - name: South El Monte
+    probability: 1
+  - name: South Gate
+    probability: 1
+  - name: South Lake Tahoe
+    probability: 1
+  - name: South Pasadena
+    probability: 1
+  - name: South San Francisco
+    probability: 1
+  - name: St. Helena
+    probability: 1
+  - name: Stanton
+    probability: 1
+  - name: Stockton
+    probability: 1
+  - name: Suisun City
+    probability: 1
+  - name: Sunnyvale
+    probability: 1
+  - name: Susanville
+    probability: 1
+  - name: Sutter Creek
+    probability: 1
+  - name: Taft
+    probability: 1
+  - name: Tehachapi
+    probability: 1
+  - name: Tehama
+    probability: 1
+  - name: Temecula
+    probability: 1
+  - name: Temple City
+    probability: 1
+  - name: Thousand Oaks
+    probability: 1
+  - name: Tiburon
+    probability: 1
+  - name: Torrance
+    probability: 1
+  - name: Tracy
+    probability: 1
+  - name: Trinidad
+    probability: 1
+  - name: Truckee
+    probability: 1
+  - name: Tulare
+    probability: 1
+  - name: Tulelake
+    probability: 1
+  - name: Turlock
+    probability: 1
+  - name: Tustin
+    probability: 1
+  - name: Twentynine Palms
+    probability: 1
+  - name: Ukiah
+    probability: 1
+  - name: Union City
+    probability: 1
+  - name: Upland
+    probability: 1
+  - name: Vacaville
+    probability: 1
+  - name: Vallejo
+    probability: 1
+  - name: Ventura
+    probability: 1
+  - name: Vernon
+    probability: 1
+  - name: Victorville
+    probability: 1
+  - name: Villa Park
+    probability: 1
+  - name: Visalia
+    probability: 1
+  - name: Vista
+    probability: 1
+  - name: Walnut
+    probability: 1
+  - name: Walnut Creek
+    probability: 1
+  - name: Wasco
+    probability: 1
+  - name: Waterford
+    probability: 1
+  - name: Watsonville
+    probability: 1
+  - name: Weed
+    probability: 1
+  - name: West Covina
+    probability: 1
+  - name: West Hollywood
+    probability: 1
+  - name: West Sacramento
+    probability: 1
+  - name: Westlake Village
+    probability: 1
+  - name: Westminster
+    probability: 1
+  - name: Westmorland
+    probability: 1
+  - name: Wheatland
+    probability: 1
+  - name: Whittier
+    probability: 1
+  - name: Wildomar
+    probability: 1
+  - name: Williams
+    probability: 1
+  - name: Willits
+    probability: 1
+  - name: Willows
+    probability: 1
+  - name: Windsor
+    probability: 1
+  - name: Winters
+    probability: 1
+  - name: Woodlake
+    probability: 1
+  - name: Woodland
+    probability: 1
+  - name: Woodside
+    probability: 1
+  - name: Yorba Linda
+    probability: 1
+  - name: Yountville
+    probability: 1
+  - name: Yreka
+    probability: 1
+  - name: Yuba City
+    probability: 1
+  - name: Yucaipa
+    probability: 1
+  - name: Yucca Valley
     probability: 1
 name: Dutch (real)
 source: https://gis.data.cnra.ca.gov/api/download/v1/items/8322505e8f1741c7b0de85684594e32a/csv?layers=0
-subsets:
-- name: california
-  parts:
-  - names: []
