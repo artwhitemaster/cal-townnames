@@ -1,0 +1,18 @@
+available: true
+id: 1
+mainset:
+- names:
+  - name: Poop
+    probability: 1
+  - name: Cal
+    probability: 1
+  - name: Bear
+    probability: 1
+  - name: Cinema
+    probability: 1
+name: California (real)
+source: https://gis.data.cnra.ca.gov/api/download/v1/items/8322505e8f1741c7b0de85684594e32a/csv?layers=0
+subsets:
+- name: california
+  parts:
+  - names: []
